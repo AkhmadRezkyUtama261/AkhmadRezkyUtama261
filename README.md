@@ -78,8 +78,8 @@
 ## 🧠 Currently Learning
 
 - ⚛️ React Advanced Concepts
-- 🌐 Backend Development with Express.js
-- 🗄 Database Design with MongoDB
+- 🌐 Front end developer
+- 🗄 Database Design with Postgres
 - 🤖 Artificial Intelligence
 
 ---
@@ -90,4 +90,4 @@
 
 ---
 
-⭐️ From [rizkifadilbudi](https://github.com/rizkifadilbudi)
+⭐️ From [AkhmadRezkyUtama](https://github.com/AkhmadRezkyUtama261)
