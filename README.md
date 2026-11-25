@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Rizki Fadil 
+# 👋 Hi, I'm Eky 
 
 🎓 Information Technology Student at Universitas Muhammadiyah Yogyakarta  
 💻 Currently learning: React, Express.js, MongoDB  
-🚀 Interested in: Web Development, Backend, AI
+🚀 Interested in: Web Development, FrontEnd, UI/UX and IT Governance
 
 ---
 
@@ -11,7 +11,7 @@
 - 🔭 I'm currently working on: [Project kamu]
 - 🌱 I'm currently learning: React & Backend Development
 - 👯 I'm looking to collaborate on: [Open source / project]
-- 💬 Ask me about: JavaScript, Node.js, Express.js, React, MongoDB
+- 💬 Ask me about: HTML and UI/UX
 - ⚡️ Fun fact: [Hal unik tentang kamu]
 
 ---
